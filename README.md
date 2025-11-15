@@ -27,25 +27,81 @@ const skills = {
 
 ## Featured Projects
 
-**[Wizdom AI](https://github.com/bireshwarkundu/Wizdom-AI)**  
-AI-powered chat assistant with human-like conversations and task automation  
-`TypeScript` `React` `AI/ML`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Docly](https://github.com/bireshwarkundu/Docly)**  
-Modern telemedicine platform for healthcare consultations  
-`TypeScript` `React` `Healthcare`
+### 🤖 Wizdom AI
+AI-powered chat assistant with human-like conversations and task automation
 
-**[TimeStamp Manager](https://github.com/bireshwarkundu/TimeStamp---YouTube-Timestamp-Management-System)**  
-Chrome extension for YouTube timestamp management  
-`TypeScript` `Chrome Extensions`
+**Tech Stack:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![AI](https://img.shields.io/badge/-AI/ML-000?style=flat&logo=openai)
 
-**[AI Shell Assistant](https://github.com/bireshwarkundu/AI-Shell-Command-Assistant)**  
-AI-powered command line assistant  
-`JavaScript` `AI` `CLI`
+**[View Project →](https://github.com/bireshwarkundu/Wizdom-AI)**
 
-**[Price Predictor](https://github.com/bireshwarkundu/prices-predictor-system)**  
-Machine learning system for price prediction  
-`Python` `Machine Learning` `Jupyter`
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Docly
+Modern telemedicine platform for healthcare consultations
+
+**Tech Stack:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Healthcare](https://img.shields.io/badge/-Healthcare-000?style=flat&logo=heart)
+
+**[View Project →](https://github.com/bireshwarkundu/Docly)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ TimeStamp Manager
+Chrome extension for YouTube timestamp management
+
+**Tech Stack:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![Chrome](https://img.shields.io/badge/-Chrome-000?style=flat&logo=googlechrome)
+
+**[View Project →](https://github.com/bireshwarkundu/TimeStamp---YouTube-Timestamp-Management-System)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🐚 AI Shell Assistant
+AI-powered command line assistant
+
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![AI](https://img.shields.io/badge/-AI-000?style=flat&logo=openai)
+![CLI](https://img.shields.io/badge/-CLI-000?style=flat&logo=gnu-bash)
+
+**[View Project →](https://github.com/bireshwarkundu/AI-Shell-Command-Assistant)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Price Predictor
+Machine learning system for price prediction
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![ML](https://img.shields.io/badge/-Machine%20Learning-000?style=flat&logo=tensorflow)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter)
+
+**[View Project →](https://github.com/bireshwarkundu/prices-predictor-system)**
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
