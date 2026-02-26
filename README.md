@@ -1,126 +1,64 @@
-# Bireshwar Kundu
+# <p align="center"> <img src="https://img.shields.io/badge/BIRESHWAR%20KUNDU-000000?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
-**Full Stack Developer | AI Engineer | Open Source Enthusiast**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bireshwarkundu&show_icons=true&theme=neobrutalism" alt="Bireshwar's Stats" style="border: 4px solid #000; box-shadow: 10px 10px 0px #000;" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/bireshwarkundu/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/bireshwarkundu)
-[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail)](mailto:your.email@example.com)
+<br/>
 
----
-
-## About
-
-I build intelligent applications at the intersection of full-stack development and artificial intelligence. Currently focused on creating AI-powered solutions that solve real-world problems.
-
-```typescript
-const skills = {
-  languages: ["TypeScript", "Python", "JavaScript"],
-  frontend: ["React", "Next.js", "TailwindCSS"],
-  backend: ["Node.js", "Express", "FastAPI"],
-  ai_ml: ["TensorFlow", "PyTorch", "NLP"],
-  databases: ["MongoDB", "PostgreSQL", "Redis"],
-  tools: ["Docker", "Git", "AWS"]
-};
-```
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Wizdom AI
-AI-powered chat assistant with human-like conversations and task automation
-
-**Tech Stack:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![AI](https://img.shields.io/badge/-AI/ML-000?style=flat&logo=openai)
-
-**[View Project →](https://github.com/bireshwarkundu/Wizdom-AI)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Docly
-Modern telemedicine platform for healthcare consultations
-
-**Tech Stack:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Healthcare](https://img.shields.io/badge/-Healthcare-000?style=flat&logo=heart)
-
-**[View Project →](https://github.com/bireshwarkundu/Docly)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⏱️ TimeStamp Manager
-Chrome extension for YouTube timestamp management
-
-**Tech Stack:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![Chrome](https://img.shields.io/badge/-Chrome-000?style=flat&logo=googlechrome)
-
-**[View Project →](https://github.com/bireshwarkundu/TimeStamp---YouTube-Timestamp-Management-System)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🐚 AI Shell Assistant
-AI-powered command line assistant
-
-**Tech Stack:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![AI](https://img.shields.io/badge/-AI-000?style=flat&logo=openai)
-![CLI](https://img.shields.io/badge/-CLI-000?style=flat&logo=gnu-bash)
-
-**[View Project →](https://github.com/bireshwarkundu/AI-Shell-Command-Assistant)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Price Predictor
-Machine learning system for price prediction
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![ML](https://img.shields.io/badge/-Machine%20Learning-000?style=flat&logo=tensorflow)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter)
-
-**[View Project →](https://github.com/bireshwarkundu/prices-predictor-system)**
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
+<table align="center" style="border: 4px solid #000; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="background-color: #ADFF2F; padding: 20px; border: 4px solid #000;">
+      <h2 style="margin: 0; font-family: sans-serif;">⚡ ABOUT ME</h2>
+      <p style="font-weight: bold; font-size: 1.1em;">
+        UI/UX Designer & Web Developer at <b>GrnLYFT</b>. <br/>
+        Building the future of <b>MSME financing (ChaiTrade)</b> and <b>Urban Mobility (MeterGo)</b>.
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
-## GitHub Stats
+### <img src="https://img.shields.io/badge/PROJECTS-FF5C00?style=for-the-badge&logo=rocket&logoColor=black" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bireshwarkundu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bireshwarkundu&show_icons=true&hide_border=true&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=jupyter%20notebook" />
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **🚕 MeterGo** | Ride-sharing web application for urban commuting. | `In Development` |
+| **☕ ChaiTrade** | Blockchain-powered MSME financing platform. | `Active` |
+| **📈 Task Flow** | A productivity-focused to-do list with a focus on UI. | `Completed` |
+| **💉 Medical MCP** | Automation server for healthcare hackathons. | `Archived` |
 
----
+<br/>
 
-## Current Focus
+### <img src="https://img.shields.io/badge/TECH%20STACK-FFFC00?style=for-the-badge&logo=code&logoColor=black" />
 
-- Building AI-powered applications
-- Contributing to open source projects
-- Learning advanced system design patterns
-- Exploring cloud architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border: 2px solid #000;" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="border: 2px solid #000;" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="border: 2px solid #000;" />
+  <img src="https://img.shields.io/badge/German_Language-FFCC00?style=for-the-badge&logo=google-translate&logoColor=black" style="border: 2px solid #000;" />
+</p>
 
----
+<br/>
+
+<div align="center">
+  <table style="border: 4px solid #000; border-collapse: collapse;">
+    <tr>
+      <td style="background-color: #FF005C; padding: 15px; border: 4px solid #000;">
+        <h3 style="color: white; margin: 0;">Connect with me!</h3>
+      </td>
+      <td style="background-color: #000; padding: 15px; border: 4px solid #000;">
+        <a href="https://linkedin.com/in/bireshwarkundu">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bireshwarkundu&color=000000&style=flat" alt="Profile views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bireshwarkundu&theme=neobrutalism&hide_border=false" alt="GitHub Streak" />
 </p>
